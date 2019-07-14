@@ -1,7 +1,7 @@
 /**
  * This Program Help To Convert Numbers From Decimal To Roman. 
  * Author ADITYA PANDEY 
- * Version 2.0 updated on 22/July/2015
+ * Version 2.0 
  */
 import  java.io.*;
 class Roman
